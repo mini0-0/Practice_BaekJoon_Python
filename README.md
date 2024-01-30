@@ -1,1 +1,1 @@
-# -_Python
+# 백준_Python_연습
